@@ -1,0 +1,96 @@
+Last login: Thu Sep  5 11:36:13 on ttys000
+1005541@1005541-student-FVFG315GQ6L3 ~ % date
+Mon Sep  9 11:40:22 EDT 2024
+1005541@1005541-student-FVFG315GQ6L3 ~ % ls
+Applications	Desktop		Documents	Downloads	Library		Movies		Music		Pearson		Pictures	Public
+1005541@1005541-student-FVFG315GQ6L3 ~ % cd Desktop
+1005541@1005541-student-FVFG315GQ6L3 Desktop % ls
+Learning Platform _ CompTIA.pdf					Screenshot 2024-02-20 at 8.39.06 AM.png				Screenshot 2024-02-23 at 8.34.50 AM.png
+O_NET Interest Profiler_ Score Report at My Next Move.pdf	Screenshot 2024-02-20 at 8.43.31 AM.png				Screenshot 2024-02-23 at 8.38.09 AM.png
+RobloxPlayerInstaller.app					Screenshot 2024-02-20 at 8.44.49 AM.png				Screenshot 2024-02-23 at 8.38.12 AM.png
+Screenshot 2024-02-05 at 10.00.13 AM.png			Screenshot 2024-02-20 at 8.46.23 AM.png				Screenshot 2024-03-01 at 8.16.07 AM.png
+Screenshot 2024-02-05 at 9.15.54 AM.png				Screenshot 2024-02-23 at 8.15.15 AM.png				Screenshot 2024-03-01 at 8.20.47 AM.png
+Screenshot 2024-02-05 at 9.16.04 AM.png				Screenshot 2024-02-23 at 8.18.52 AM.png				Screenshot 2024-03-01 at 8.24.29 AM.png
+Screenshot 2024-02-13 at 12.57.08 PM.png			Screenshot 2024-02-23 at 8.19.40 AM.png				Screenshot 2024-03-01 at 8.27.02 AM.png
+Screenshot 2024-02-13 at 12.57.21 PM.png			Screenshot 2024-02-23 at 8.20.41 AM.png				Screenshot 2024-03-01 at 8.39.41 AM.png
+Screenshot 2024-02-14 at 9.21.56 AM.png				Screenshot 2024-02-23 at 8.25.57 AM.png				Screenshot 2024-03-01 at 9.03.31 AM.png
+Screenshot 2024-02-20 at 8.13.38 AM.png				Screenshot 2024-02-23 at 8.26.51 AM.png				Screenshot 2024-03-06 at 8.11.19 AM.png
+Screenshot 2024-02-20 at 8.14.03 AM.png				Screenshot 2024-02-23 at 8.27.15 AM.png				Screenshot 2024-04-24 at 8.11.46 AM.png
+Screenshot 2024-02-20 at 8.14.13 AM.png				Screenshot 2024-02-23 at 8.27.51 AM.png				Screenshot 2024-05-06 at 9.51.37 AM.png
+Screenshot 2024-02-20 at 8.14.20 AM.png				Screenshot 2024-02-23 at 8.30.16 AM.png				Screenshot 2024-09-09 at 8.47.27 AM.png
+Screenshot 2024-02-20 at 8.16.18 AM.png				Screenshot 2024-02-23 at 8.30.38 AM.png				practes
+Screenshot 2024-02-20 at 8.23.18 AM.png				Screenshot 2024-02-23 at 8.31.10 AM.png				terminal
+Screenshot 2024-02-20 at 8.24.53 AM.png				Screenshot 2024-02-23 at 8.31.22 AM.png				terminal_practice
+Screenshot 2024-02-20 at 8.25.32 AM.png				Screenshot 2024-02-23 at 8.33.11 AM.png
+Screenshot 2024-02-20 at 8.32.48 AM.png				Screenshot 2024-02-23 at 8.33.38 AM.png
+1005541@1005541-student-FVFG315GQ6L3 Desktop % cd ..
+1005541@1005541-student-FVFG315GQ6L3 ~ % cd Library
+1005541@1005541-student-FVFG315GQ6L3 Library % ls
+Accounts				Containers				HTTPStorages				PersonalizationPortrait			StatusKit
+AppleMediaServices			Cookies					HomeKit					Photos					Suggestions
+Application Scripts			CoreFollowUp				IdentityServices			PreferencePanes				SyncedPreferences
+Application Support			DES					Input Methods				Preferences				Translation
+Assistant				Daemon Containers			IntelligencePlatform			Printers				Trial
+Assistants				DataAccess				Internet Plug-Ins			Reminders				Weather
+Audio					DataDeliveryServices			Keyboard Layouts			Roblox					WebKit
+Autosave Information			DoNotDisturb				KeyboardServices			Safari					com.apple.aiml.instrumentation
+Biome					DuetExpertCenter			Keychains				SafariSafeBrowsing			com.apple.appleaccountd
+Caches					Favorites				LanguageModeling			SafariSandboxBroker			com.apple.bluetooth.services.cloud
+Calendars				Finance					Logs					Saved Application State			com.apple.iTunesCloud
+CallServices				FontCollections				Mail					Screen Savers				com.apple.icloud.searchpartyd
+ColorPickers				Fonts					Messages				Services				com.apple.internal.ck
+Colors					FrontBoard				Metadata				Sharing					studentd
+Compositions				GameKit					Mobile Documents			Sounds
+Contacts				Google					News					Spelling
+ContainerManager			Group Containers			Passes					Staging
+1005541@1005541-student-FVFG315GQ6L3 Library % cd Desktop
+cd: no such file or directory: Desktop
+1005541@1005541-student-FVFG315GQ6L3 Library % ls
+Accounts				Containers				HTTPStorages				PersonalizationPortrait			StatusKit
+AppleMediaServices			Cookies					HomeKit					Photos					Suggestions
+Application Scripts			CoreFollowUp				IdentityServices			PreferencePanes				SyncedPreferences
+Application Support			DES					Input Methods				Preferences				Translation
+Assistant				Daemon Containers			IntelligencePlatform			Printers				Trial
+Assistants				DataAccess				Internet Plug-Ins			Reminders				Weather
+Audio					DataDeliveryServices			Keyboard Layouts			Roblox					WebKit
+Autosave Information			DoNotDisturb				KeyboardServices			Safari					com.apple.aiml.instrumentation
+Biome					DuetExpertCenter			Keychains				SafariSafeBrowsing			com.apple.appleaccountd
+Caches					Favorites				LanguageModeling			SafariSandboxBroker			com.apple.bluetooth.services.cloud
+Calendars				Finance					Logs					Saved Application State			com.apple.iTunesCloud
+CallServices				FontCollections				Mail					Screen Savers				com.apple.icloud.searchpartyd
+ColorPickers				Fonts					Messages				Services				com.apple.internal.ck
+Colors					FrontBoard				Metadata				Sharing					studentd
+Compositions				GameKit					Mobile Documents			Sounds
+Contacts				Google					News					Spelling
+ContainerManager			Group Containers			Passes					Staging
+1005541@1005541-student-FVFG315GQ6L3 Library % cd ..
+1005541@1005541-student-FVFG315GQ6L3 ~ % cd Desktop
+1005541@1005541-student-FVFG315GQ6L3 Desktop % ls
+Learning Platform _ CompTIA.pdf					Screenshot 2024-02-20 at 8.39.06 AM.png				Screenshot 2024-02-23 at 8.34.50 AM.png
+O_NET Interest Profiler_ Score Report at My Next Move.pdf	Screenshot 2024-02-20 at 8.43.31 AM.png				Screenshot 2024-02-23 at 8.38.09 AM.png
+RobloxPlayerInstaller.app					Screenshot 2024-02-20 at 8.44.49 AM.png				Screenshot 2024-02-23 at 8.38.12 AM.png
+Screenshot 2024-02-05 at 10.00.13 AM.png			Screenshot 2024-02-20 at 8.46.23 AM.png				Screenshot 2024-03-01 at 8.16.07 AM.png
+Screenshot 2024-02-05 at 9.15.54 AM.png				Screenshot 2024-02-23 at 8.15.15 AM.png				Screenshot 2024-03-01 at 8.20.47 AM.png
+Screenshot 2024-02-05 at 9.16.04 AM.png				Screenshot 2024-02-23 at 8.18.52 AM.png				Screenshot 2024-03-01 at 8.24.29 AM.png
+Screenshot 2024-02-13 at 12.57.08 PM.png			Screenshot 2024-02-23 at 8.19.40 AM.png				Screenshot 2024-03-01 at 8.27.02 AM.png
+Screenshot 2024-02-13 at 12.57.21 PM.png			Screenshot 2024-02-23 at 8.20.41 AM.png				Screenshot 2024-03-01 at 8.39.41 AM.png
+Screenshot 2024-02-14 at 9.21.56 AM.png				Screenshot 2024-02-23 at 8.25.57 AM.png				Screenshot 2024-03-01 at 9.03.31 AM.png
+Screenshot 2024-02-20 at 8.13.38 AM.png				Screenshot 2024-02-23 at 8.26.51 AM.png				Screenshot 2024-03-06 at 8.11.19 AM.png
+Screenshot 2024-02-20 at 8.14.03 AM.png				Screenshot 2024-02-23 at 8.27.15 AM.png				Screenshot 2024-04-24 at 8.11.46 AM.png
+Screenshot 2024-02-20 at 8.14.13 AM.png				Screenshot 2024-02-23 at 8.27.51 AM.png				Screenshot 2024-05-06 at 9.51.37 AM.png
+Screenshot 2024-02-20 at 8.14.20 AM.png				Screenshot 2024-02-23 at 8.30.16 AM.png				Screenshot 2024-09-09 at 8.47.27 AM.png
+Screenshot 2024-02-20 at 8.16.18 AM.png				Screenshot 2024-02-23 at 8.30.38 AM.png				practes
+Screenshot 2024-02-20 at 8.23.18 AM.png				Screenshot 2024-02-23 at 8.31.10 AM.png				terminal
+Screenshot 2024-02-20 at 8.24.53 AM.png				Screenshot 2024-02-23 at 8.31.22 AM.png				terminal_practice
+Screenshot 2024-02-20 at 8.25.32 AM.png				Screenshot 2024-02-23 at 8.33.11 AM.png
+Screenshot 2024-02-20 at 8.32.48 AM.png				Screenshot 2024-02-23 at 8.33.38 AM.png
+1005541@1005541-student-FVFG315GQ6L3 Desktop % cd folder
+cd: no such file or directory: folder
+1005541@1005541-student-FVFG315GQ6L3 Desktop % ls folder
+ls: folder: No such file or directory
+1005541@1005541-student-FVFG315GQ6L3 Desktop % mv folder
+usage: mv [-f | -i | -n] [-hv] source target
+       mv [-f | -i | -n] [-v] source ... directory
+1005541@1005541-student-FVFG315GQ6L3 Desktop % date
+Mon Sep  9 11:50:08 EDT 2024
+1005541@1005541-student-FVFG315GQ6L3 Desktop % 
