@@ -4,4 +4,4 @@
 
 # list of journal entris 
 
-- [my journal leraning the termnal(termnal.md)]
+- [my journal leraning the termnal](termnal.md)
