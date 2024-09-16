@@ -1,7 +1,7 @@
 ##hello this this my jounal
 
--my code
+- my code
 
-# list of journal entris 
+# list of journal entries 
 
-- [my journal leraning the termnal](termnal.md)
+- [my journey learning the terminal](termnal.md)
