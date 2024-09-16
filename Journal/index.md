@@ -4,4 +4,4 @@
 
 # list of journal entries 
 
-- [my journey learning the terminal](termnal.md)
+- [my journey learning the terminal](terminal.md)
