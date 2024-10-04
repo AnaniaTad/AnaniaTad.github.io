@@ -1,7 +1,6 @@
-##hello this this my jounal
+## hello this this my jounal
 
-- my code
 
 # list of journal entries 
 
-- [my journey learning the terminal](terminal.md)
+- [my journey learning the terminal](entries/terminal.md)
