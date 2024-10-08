@@ -15,12 +15,13 @@
 
 [the name of the link](www.filename.com)
 
-![link of pic](../../pics/cats.webp)
+![link](../../pics/cats.webp)
 
 
-## cats cats cats 
-|_______|_______________|
+## cats cats cats
+ 
 |name   | facts         |
+|_______|_______________|
 |garfild| likes lassina |
 |tom    | chases jeryy  |
 |mewoth | thats right!  |
