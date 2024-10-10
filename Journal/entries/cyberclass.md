@@ -11,4 +11,4 @@
 | Next-Generation Firewall (NGFW) | Multiple Layers   | Combines traditional and advanced features          |
 
 
-![firewall](../images/Firewall.avif)
+![firewall](https://cdn.britannica.com/26/247126-050-CD6FCB4C/firewall.jpg)
