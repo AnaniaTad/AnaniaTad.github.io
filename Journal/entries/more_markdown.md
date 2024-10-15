@@ -15,13 +15,17 @@
 
 [the name of the link](www.filename.com)
 
-![link](../../pics/cats.webp)
+![link](https://d.newsweek.com/en/full/2260507/angry-looking-cat.webp?w=900&f=3623e034ffe6d4cedb52c77893a95a57) 
 
 
 ## cats cats cats
  
-|name   | facts         |
-|_______|_______________|
-|garfild| likes lassina |
-|tom    | chases jeryy  |
-|mewoth | thats right!  |
+| name    	| facts         	|   	
+|  ---------	|  ---------------	|	
+| garfild 	| likes lassina 	| 
+| tom     	| chasese jeryy 	|  
+| mewoth  	| thats right ! 	|   	
+
+
+$$\frac{100}{5}$$
+$\left( \frac{1000}{500} \right)$
