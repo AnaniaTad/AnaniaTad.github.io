@@ -26,6 +26,7 @@
 | tom     	| chasese jeryy 	|  
 | mewoth  	| thats right ! 	|   	
 
+ 
+$a_i^2 + b_j^2 = c_k^2$
 
-$$\frac{100}{5}$$
-$\left( \frac{1000}{500} \right)$
+$\lim_{x \to a} \frac{f(x) - f(a)}{x - a}$
