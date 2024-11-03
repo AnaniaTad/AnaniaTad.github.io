@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <script src="js/init.js"></script>
+<head>
+    <title>Getting Started with Vim</title>
+    <script src="js/init.js"></script>
 </head>
 <body>
     <h1>Getting Started with Vim</h1>
@@ -32,13 +34,21 @@
 
     <h2>Common Commands</h2>
     <ul>
-        <li><kbd><samp>dd<samp></kbd> - Delete the current line</li>
+        <li><kbd>dd</kbd> - Delete the current line</li>
         <li><kbd>yy</kbd> - Copy (yank) the current line</li>
         <li><kbd>p</kbd> - Paste the copied text below the current line</li>
         <li><kbd>u</kbd> - Undo the last action</li>
         <li><kbd>Ctrl</kbd> + <kbd>r</kbd> - Redo the last undone action</li>
     </ul>
 
+    <h2>Sample Output in Vim</h2>
+    <p>When you type <code>:w</code> to save, Vim will display the following confirmation:</p>
+    <samp>
+        "filename.txt" written<br>
+        Press ENTER or type the command to continue
+    </samp>
+
 </body>
 </html>
+
 
