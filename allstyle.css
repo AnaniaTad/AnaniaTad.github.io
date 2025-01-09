@@ -1,8 +1,8 @@
 body {
  background-color:Burlywood; color:black;
-text-transform:uppercase;
-font-size:20pt;
-font-family:"Courier New"    "arial" sans-serif; 
+text-transform:none ;
+font-size:15pt;
+font-family: "Comic Sans MS ", cursive   ; 
       }
 header  {  background-color:210, 180, 140 ; }
 
@@ -10,3 +10,46 @@ th, td, table {border:1px solid;  	 background: #D2B48C	;
  border-collapse: collapse ; }
 
 a {color:black  }
+.banner {
+    background-color: SandyBrown;
+    padding: 15px;
+    margin: 0;
+    border-bottom: 5px solid SaddleBrown;
+}
+
+.nav-links {
+    list-style:none ;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nav-links li {
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    border: 2px solid SaddleBrown;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: SaddleBrown;
+    color: black;
+}
+
+.intro {
+    margin:20px auto;
+    padding:15px;
+    max-width: 400px;
+    background-color:SandyBrown ;
+    border: 3px solid SaddleBrown;
+    
+
+
