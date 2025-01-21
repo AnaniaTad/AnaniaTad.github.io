@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>10x10 Grid with CSS Grid</title>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      background-color: black;
+    }
+
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      grid-template-rows: repeat(10, 1fr);
+      width: 100vmin;
+      height: 100vmin;
+      margin:auto;
+    }
+
+    .grid-container div {
+      background-color: #ddd;
+      border: 0.01px  solid black; /* Optional border for better visual separation */
+    }
+
+    /* Color specific squares */
+    .grid-container div:nth-child(1),
+    .grid-container div:nth-child(1),
+    .grid-container div:nth-child(1){
+        background-color:green;
+    }
+    
+    /* Color every even square */
+    .grid-container div:nth-child(even) {
+      background-color: ;
+    }
+
+    /* Color every 3rd square */
+    .grid-container div:nth-child(3n) {
+      background-color:;
+    }
+
+    /*
+        We can use this syntax to select a range:
+        - `div:nth-child(n+41)`: Selects all `div` elements that are the 41st child or later.
+        - `:nth-child(-n+50)`: Selects all `div` elements that are the 50th child or earlier.
+    */
+    .grid-container div:nth-child(n+70):nth-child(-n+100) {
+      background-color: red;
+    }
+   .grid-container div:nth-child(n+30):nth-child(-n+70) {
+      background-color: yellow;
+    }
+
+ .grid-container div:nth-child(n+0):nth-child(-n+30) {
+      background-color: green;
+    }
+
+ .grid-container div:nth-child(n+33):nth-child(-n+38) {
+      background-color: blue;
+
+}
+ .grid-container div:nth-child(n+24):nth-child(-n+27) {
+      background-color: blue;
+
+}
+ .grid-container div:nth-child(n+42):nth-child(-n+49) {
+      background-color: blue;
+
+}
+
+ .grid-container div:nth-child(n+52):nth-child(-n+59) {
+      background-color: blue;
+
+}
+ .grid-container div:nth-child(n+63):nth-child(-n+68) {
+      background-color: blue;
+
+}
+
+ .grid-container div:nth-child(n+74):nth-child(-n+77) {
+      background-color: Blue;
+
+}
+
+
+
+
+  </style>
+</head>
+<body>
+  <div class="grid-container">
+    <!-- 100 divs -->
+    <div > </div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+    <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+  </div>
+</body>
+</html>
