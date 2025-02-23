@@ -1,1 +1,34 @@
-ued:
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+.size-example {
+    width: 300px;
+    height: 200px;
+}
+
+.border-example {
+    border: 5px solid #ff6347;
+    border-radius: 15px;
+}
+
+.shadow-example {
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.opacity-example {
+    opacity: 0.6;
+}
+
+.filter-example {
+    filter: grayscale(100%);
+}
+
+.object-example {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    object-position: top;
+}
+
