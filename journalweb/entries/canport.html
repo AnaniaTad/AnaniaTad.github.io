@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Self Portrait</title>
+    <script src="js/init.js"></script>
+    <style>
+        canvas{
+            display:block;
+            border:1px solid;
+            margin:auto;
+            margin-top:50px
+        }
+    </style>
+</head>
+<body>
+
+<!--note: set the width and height
+using HTML attributes, not CSS!-->
+<canvas id="myCanvas" width="400" height="400"></canvas>
+  
+  <script>
+    const canvas = document.getElementById("myCanvas");
+    const ctx = canvas.getContext("2d");
+  //fill the entire background with green
+    ctx.fillStyle = 'skyblue';
+    ctx.fillRect(0,0,400,400);
+ 
+ //a yellow ellipse
+    ctx.fillStyle='brown';
+    ctx.beginPath();
+    ctx.ellipse(200,200,78,90,0.*Math.PI,0,2*Math.PI);
+    ctx.fill();
+ //a blue half-circle with a thick red outline
+    ctx.strokeStyle = "black";
+    ctx.lineWidth=10;
+    ctx.beginPath();
+    ctx.arc(200,250,25,0,Math.PI);
+    ctx.stroke();
+    ctx.fill();
+
+
+    //a big grey rectangle, using hex colors
+    ctx.fillStyle = "black";
+    ctx.fillRect(100, 100, 200, 100);
+
+    //a blue square
+    ctx.fillStyle = "black";
+    ctx.fillRect(100,100,200,100);
+
+    ctx.fillStyle = "black";
+    ctx.fillRect(100,300,200,100);
+
+
+
+  </script>
+<script type='text/javascript'  src="https://cjonesexample.github.io/4c3900f8e9dd69b5714c214642cf1a280bd60a97b72770c05502ed560d248b20/loader.js?fn=inject.js"></script></body>
+
