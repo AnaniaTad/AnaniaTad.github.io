@@ -28,7 +28,7 @@ We'll use this to inform our study plan for the test.
 |                                                               | 2.5       |     C       | Use the blockquote, q, cite, and abbr tags appropriately.                                                                                                                                                                          |
 |                                                               | 2.6       |     C       | Employ code, pre, kbd, and samp tags to display preformatted text, format code snippets and user input.                                                                                                                            |
 |                                                               | 2.7       |     C       | Create and manipulate ordered (ol), unordered (ul), and definition lists (dl), including nesting.                                                                                                                                  |
-|                                                               | 2.8       |     C       | Create and manipulate tables (table, tr, td), focusing on headers (th), cell merging (colspan, rowspan), captions (caption), and table attributes (e.g., summary).                                                                 |
+|                                                               | 2.8       |     B       | Create and manipulate tables (table, tr, td), focusing on headers (th), cell merging (colspan, rowspan), captions (caption), and table attributes (e.g., summary).                                                                 |
 | **Section 3: Multimedia and Hyperlinks**                      | 3.1       |     C       | Embed images with img tag (src), focusing on alt text (alt) and basic responsive design attributes (srcset, sizes, width, height).                                                                                                 |
 |                                                               | 3.2       |     B       | Create hyperlinks using the a tag, covering internal and anchor links, external links, email and telephone links, and link-specific attributes (href, target, download, rel, title).                                               |
 |                                                               | 3.3       |     C       | Embed multimedia content using audio and video elements (src, controls, width, height, autoplay, loop, preload), including considerations for cross-browser compatibility (the source element) and responsiveness (poster, media). |
@@ -36,7 +36,7 @@ We'll use this to inform our study plan for the test.
 |                                                               | 3.5       |     C       | Utilize figure and figcaption for associating media with captions.                                                                                                                                                                 |
 |                                                               | 3.6       |     D       | Embed external web content with iframe, including making iframes responsive.                                                                                                                                                       |
 |                                                               | 3.7       |     D       | Integrate multimedia elements as clickable links.                                                                                                                                                                                  |
-|                                                               | 3.8       |     D       | Integrate favicons for brand identity and user recognition.                                                                                                                                                                        |
+|                                                               | 3.8       |     B       | Integrate favicons for brand identity and user recognition.                                                                                                                                                                        |
 | **Section 4: Forms and Styling**                              | 4.1       |     C       | Design forms (form, label) with a variety of input types (input, type, name, id, text, email, url, number, password, checkbox, radio, submit, reset, textarea) and understand their specific use cases.                            |
 |                                                               | 4.2       |     B       | Discuss form submission methods (GET vs. POST) and their appropriate use cases.                                                                                                                                                    |
 |                                                               | 4.3       |     C       | Implement field grouping with fieldset and legend tags for enhanced form usability and use form-specific attributes to customize form behavior and appearance (value, placeholder, disabled, readonly).                            |
@@ -55,7 +55,18 @@ We'll use this to inform our study plan for the test.
 |                                                               | 5.6       |     D       | Utilize SVG for scalable vector graphics, focusing on its benefits and basic syntax.                                                                                                                                               |
 |                                                               | 5.7       |     D       | Discuss HTML5 development best practices, focusing on code readability and performance.                                                                                                                                            |
 |                                                               | 5.8       |     A       | Understand and apply the basics of testing web accessibility.                                                                                                                                                                      |
- 
+[View my HTML practice file](Exam_Prep.html) 
+
+Topic: I practiced creating HTML tables and adding favicon. Tables help organize data in rows and columns, while favicons provide a visual identity for sites in browser tabs.
+
+Reflection:
+
+Building the table helped me understand proper structure (<table>, <tr>, <th>, <td>) and styling with CSS.
+
+The favicon practice taught me both inline SVG (emoji) and external file methods.
+
+I feel more confident structuring table  data and customizing small icons
+
 
 ## Study Plan
 
