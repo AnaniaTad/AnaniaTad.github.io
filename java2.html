@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<title>  JS Functions</title>
+<script src="function.js""></script>
+<head>
+<body>
+<canvas id="myCanvas" width="400" height="400"></canvas>
+<script> const canvas = document.getElementById("myCanvas");
+    const ctx = canvas.getContext("2d");
+
+    function circle(x,y){
+    ctx.fillStyle = "red";
+    ctx.beginPath();
+    ctx.arc(x,y,25,0,2*Math.PI);
+    ctx.stroke();
+    ctx.fill();
+}
+
+circle(100,200);
+circle(100,200);
+               </script>
+
+</body>
+</html>
