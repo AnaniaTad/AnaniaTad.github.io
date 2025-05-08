@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+ <style>
+        canvas {
+            border: 1px solid;
+        }
+    </style>
+</style>
+<title> Knock Down </title>
+<link rel="stylesheet" type="text/css" href="../../allstyle.css">
+</head>
+<body>
+  <canvas id="myCanvas" width="400" height="400"></canvas>
+    <script>
+    const canvas = document.getElementById("myCanvas");
+    const ctx = canvas.getContext("2d");
+
+    ctx.fillStyle = 'grey';
+    ctx.fillRect(0,0,400,400);
+ 
+
+    ctx.fillStyle='brown';
+    ctx.beginPath();
+    ctx.ellipse(200,300,40,40,0.*Math.PI,0,2*Math.PI);
+    ctx.fill();
+
+    ctx.fillStyle = "black";
+    ctx.fillRect(140, 100, 40, 40);
+ctx.fillStyle = "black";
+    ctx.fillRect(190, 100, 40, 40);
+ctx.fillStyle = "black";
+    ctx.fillRect(190, 145, 40, 40);
+ctx.fillStyle = "black";
+    ctx.fillRect(140, 145, 40, 40);
+ctx.fillStyle = "black";
+    ctx.fillRect(95, 100, 40, 40);
+ctx.fillStyle = "black";
+    ctx.fillRect(95, 145, 40, 40);
+  </script>
+<P>
+the genra will be carnaval  
+the objective will be how much cups will you knock down in a limted time period.
+the ball will be controlled by aroww keys left or right and space to shoot the ball.
+for the MVP there will be a ball and  cups you move the ball left or right to hit the cups  
+</p>
+</body>
+</html>
+~          
