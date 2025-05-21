@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ball Crash Game</title>
+    <style>
+        canvas {
+            border: 1px solid black;
+            display: block;
+            margin: 0 auto;
+            background-color: lightgreen;
+        }
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        #scoreDisplay {
+            font-size: 20px;
+            margin: 10px;
+        }
+        #gameOver {
+            color: red;
+            font-size: 24px;
+            font-weight: bold;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ball Crash Game</h1>
+    <div id="scoreDisplay">Score: 0</div>
+    <div id="gameOver">GAME OVER!</div>
+    <canvas id="myCanvas" width="400" height="400"></canvas>
+    <script src="ballcrash.js"></script>
+</body>
+</html>
+
